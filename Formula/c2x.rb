@@ -3,8 +3,8 @@
 class C2x < Formula
   desc "Format conversion and pre- and post-processing for various electronic structure codes"
   homepage "https://www.c2x.org.uk/"
-  url "https://www.c2x.org.uk/downloads/c2x_2.40d.tgz"
-  sha256 "449d316a29e38d44111d59242a31bc2dcdc7f24d505b5d96e22f67b18a0e035e"
+  url "https://www.c2x.org.uk/downloads/c2x_2.40e.tgz"
+  sha256 "ea3be28875c53703f00ba9d51bb9277783a98376e46ae0f795bba380fa2a96be065a753aaabdf43111158e83b156d1ae38774728cb9854fd64ad436480f55ec5"
   license "GPL-3.0-or-later"
 
   depends_on "spglib"
