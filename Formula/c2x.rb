@@ -4,7 +4,7 @@ class C2x < Formula
   desc "Format conversion and pre- and post-processing for various electronic structure codes"
   homepage "https://www.c2x.org.uk/"
   url "https://www.c2x.org.uk/downloads/c2x_2.40e.tgz"
-  sha256 "9592adc6a9511f13754f8e39440ce04d7f0b934cf64d1ea66680c62c3c9fca84"
+  sha256 "c10d8a6fb91bdbf977a57fc537b765af714617618ba62e1c20907067a0e298b8"
   license "GPL-3.0-or-later"
 
   depends_on "spglib"
